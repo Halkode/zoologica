@@ -1,0 +1,18 @@
+{
+  "name": "projfinal",
+  "version": "1.0.0",
+  "description": "Projeto Final ",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "vodal": "^2.4.0",
+    "vue": "^2.6.10",
+    "vue-quick-menu": "^1.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rafael Pires",
+  "license": "MIT"
+}
